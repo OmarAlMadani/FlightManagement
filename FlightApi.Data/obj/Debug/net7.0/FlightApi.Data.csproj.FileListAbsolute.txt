@@ -1,0 +1,12 @@
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/bin/Debug/net7.0/FlightApi.Data.deps.json
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/bin/Debug/net7.0/FlightApi.Data.dll
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/bin/Debug/net7.0/FlightApi.Data.pdb
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/obj/Debug/net7.0/FlightApi.Data.csproj.AssemblyReference.cache
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/obj/Debug/net7.0/FlightApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/obj/Debug/net7.0/FlightApi.Data.AssemblyInfoInputs.cache
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/obj/Debug/net7.0/FlightApi.Data.AssemblyInfo.cs
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/obj/Debug/net7.0/FlightApi.Data.csproj.CoreCompileInputs.cache
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/obj/Debug/net7.0/FlightApi.Data.dll
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/obj/Debug/net7.0/refint/FlightApi.Data.dll
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/obj/Debug/net7.0/FlightApi.Data.pdb
+/Users/Omar/Projects/FlightManagement/FlightApi.Data/obj/Debug/net7.0/ref/FlightApi.Data.dll

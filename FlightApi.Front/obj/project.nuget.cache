@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "svtb0Y9mR05eWAdRYYz5yy0r8Cph4Dr00dOHSJoveeuHrK4g2hMEt+HtbYLZNZSLx6MBszQ9BbnAbcTBUgWixw==",
+  "success": true,
+  "projectFilePath": "/Users/Omar/Projects/FlightManagement/FlightApi.Front/FlightApi.Front.csproj",
+  "expectedPackageFiles": [
+    "/Users/Omar/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.3/microsoft.aspnetcore.spaproxy.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
